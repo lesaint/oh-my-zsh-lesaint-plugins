@@ -1,7 +1,7 @@
 oh-my-zsh-lesaint-plugins
 =========================
 
-My plugins for Oh-My-Zsh
+My plugins for [Oh-My-Zsh](https://github.com/robbyrussell/oh-my-zsh)
 
 ## lesaint-mvn
 
